@@ -4,6 +4,7 @@
 
 Sistema desenvolvido nas aulas de Laboratório de banco de dados da Fatec Santana de Parnaíba. Turma do 4 semestre.
 Alunos: Guilherme Melo, Luciano Domingos da Silva, Cristoffer Peres e Gabriel Miller
+Professor: Caio Malheiros
 
 Desenvolvido sob a linguagem C#
 Utilizados:
